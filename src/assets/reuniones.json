@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "Revisión Sprint Pakanga",
+        "equipo": "Desarrollo",
+        "fecha": "2024-09-07",
+        "enlace": "https://meet.google.com/reunion"
+    },
+    {
+        "titulo": "Planificación Sprint InkuA",
+        "equipo": "Frontend",
+        "fecha": "2024-09-09",
+        "enlace": "https://meet.google.com/reunion"
+    },
+    {
+        "titulo": "Revisión de diseño",
+        "equipo": "Diseño y UX",
+        "fecha": "2024-09-10",
+        "enlace": "https://meet.google.com/reunion"
+    },
+    {
+        "titulo": "Reunión con cliente",
+        "equipo": "Ventas y Desarrollo",
+        "fecha": "2024-09-12",
+        "enlace": "https://meet.google.com/reunion"
+    },
+    {
+        "titulo": "Revisión de performance",
+        "equipo": "Backend",
+        "fecha": "2024-09-14",
+        "enlace": "https://meet.google.com/reunion"
+    },
+    {
+        "titulo": "Sesión de retrospectiva",
+        "equipo": "Scrum",
+        "fecha": "2024-09-15",
+        "enlace": "https://meet.google.com/reunion"
+    },
+    {
+        "titulo": "Actualización del proyecto Firebase",
+        "equipo": "Fullstack",
+        "fecha": "2024-09-17",
+        "enlace": "https://meet.google.com/reunion"
+    },
+    {
+        "titulo": "Análisis de datos Pakanga",
+        "equipo": "Analistas de datos",
+        "fecha": "2024-09-19",
+        "enlace": "https://meet.google.com/reunion"
+    },
+    {
+        "titulo": "Revisión de código",
+        "equipo": "QA y Desarrollo",
+        "fecha": "2024-09-20",
+        "enlace": "https://meet.google.com/reunion"
+    },
+    {
+        "titulo": "Pruebas de usabilidad",
+        "equipo": "Desarrollo y QA",
+        "fecha": "2024-09-21",
+        "enlace": "https://meet.google.com/reunion"
+    }
+]

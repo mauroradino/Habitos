@@ -1,0 +1,77 @@
+[
+    {
+        "titulo": "Tarea React",
+        "descripcion": "Completar funcionalidad de componente",
+        "estado": false
+    },
+    {
+        "titulo": "Tarea Next.js",
+        "descripcion": "Agregar soporte para rutas dinámicas",
+        "estado": true
+    },
+    {
+        "titulo": "Tarea Firebase",
+        "descripcion": "Configurar Firestore para guardar datos de usuario",
+        "estado": true
+    },
+    {
+        "titulo": "Tarea Tailwind",
+        "descripcion": "Aplicar diseño responsive al dashboard",
+        "estado": false
+    },
+    {
+        "titulo": "Tarea Svelte",
+        "descripcion": "Aprender sintaxis básica",
+        "estado": false
+    },
+    {
+        "titulo": "Tarea Angular",
+        "descripcion": "Refactorizar servicio de autenticación",
+        "estado": true
+    },
+    {
+        "titulo": "Tarea Node.js",
+        "descripcion": "Crear API REST para el manejo de usuarios",
+        "estado": false
+    },
+    {
+        "titulo": "Tarea Express",
+        "descripcion": "Configurar middleware de autenticación",
+        "estado": true
+    },
+    {
+        "titulo": "Tarea MongoDB",
+        "descripcion": "Optimizar queries en la base de datos",
+        "estado": false
+    },
+    {
+        "titulo": "Tarea Docker",
+        "descripcion": "Contenerizar aplicación",
+        "estado": false
+    },
+    {
+        "titulo": "Tarea Git",
+        "descripcion": "Hacer merge de la rama de desarrollo",
+        "estado": true
+    },
+    {
+        "titulo": "Tarea Webpack",
+        "descripcion": "Optimizar configuración de bundling",
+        "estado": false
+    },
+    {
+        "titulo": "Tarea Jest",
+        "descripcion": "Escribir pruebas unitarias para el módulo de autenticación",
+        "estado": false
+    },
+    {
+        "titulo": "Tarea Redux",
+        "descripcion": "Configurar estado global para la aplicación",
+        "estado": true
+    },
+    {
+        "titulo": "Tarea GraphQL",
+        "descripcion": "Crear esquema y resolvers",
+        "estado": false
+    }
+]
