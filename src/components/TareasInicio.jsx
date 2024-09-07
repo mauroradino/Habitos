@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 
 const TareasInicio = ({ lista }) => {
   return (
-    <ul className="w-full h-44 p-2 overflow-auto bg-slate-50 rounded-lg shadow-md">
+    <ul className="w-full h-96 p-2 overflow-auto bg-slate-50 rounded-lg lg:h-52 shadow-md">
         <li className='flex p-2 gap-2 justify-between'>
             <p className="w-3/12 font-bold text-center">Titulo</p>
             <p className="w-6/12 font-bold text-center">Descripcion</p>

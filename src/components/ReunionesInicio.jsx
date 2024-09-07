@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 
 const ReunionesInicio = ({ lista }) => {
   return (
-    <ul className="w-full h-44 p-2 overflow-auto bg-slate-50 rounded-lg shadow-md">
+    <ul className="w-full mx-auto h-96 p-2 overflow-auto bg-slate-50 md:w-11/12 md:h-full lg:h-full lg:w-11/12 rounded-lg shadow-md">
         <li className='flex p-2 gap-2 justify-between'>
             <p className="w-3/12 font-bold text-center">Titulo</p>
             <p className="w-6/12 font-bold text-center">Equipo</p>

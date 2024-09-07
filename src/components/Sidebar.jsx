@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 const Sidebar = () => {
   return (
     <div className="hidden p-4 w-1/6 h-screen rounded-tr-lg rounded-br-lg bg-blue-500 lg:flex lg:flex-col">
-      <h1 className="text-white font-bold text-3xl text-center mb-6">SIDEBAR</h1>
+      <h1 className="text-white font-bold text-3xl text-center mb-6">HABITOS</h1>
       <ul className="flex flex-col mb-10">
         <Link to="/" className="w-full text-lg p-3 hover:bg-blue-400 rounded text-white">Inicio</Link>
         <Link to="/Calendario" className="w-full text-lg p-3 hover:bg-blue-400 rounded text-white">Calendario</Link>

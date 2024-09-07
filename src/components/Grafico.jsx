@@ -54,8 +54,8 @@ const Grafico = () => {
   };
 
   return (
-    <div className='w-4/12'>
-        <Doughnut data={data} options={options} />;
+    <div className='flex justify-center w-8/12 mx-auto md:mb-4'>
+        <Doughnut data={data} options={options} />
     </div>
   )
 };
