@@ -2,8 +2,8 @@ import ReunionesJSON from "../assets/reuniones.json"
 
 const ReunionesPage = () => {
   return (
-    <div className="w-full bg-blue-100 h-screen p-8 fixed z-10 lg:static lg:z-auto">
-      <ul className="w-full h-full p-2 overflow-auto bg-slate-50 rounded-lg shadow-md">
+    <div className="w-full bg-blue-100 pt-32 h-screen p-8 fixed z-10 lg:static lg:z-auto">
+      <ul className="w-full h-full px-4 overflow-auto bg-slate-50 rounded-lg shadow-md">
         {ReunionesJSON.map((elemento, index) => {
             return(
                 <>
